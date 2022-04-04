@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dnale
+- 👋 Hi, I’m Алемаскин Денис. I’m "Data Analyst"
 - 👀 I’m interested in аналитика, компьютерные игры, футбол и машины.
 - 🌱 I’m currently learning в Яндекс.Практикум на Аналитика данных
 - 💞️ I’m looking to collaborate on ...
